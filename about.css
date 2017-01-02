@@ -52,6 +52,10 @@ section h2 {
   letter-spacing: 0.15em;
 }
 
+ul{
+  padding-left: 15px;
+}
+
 footer {
   padding: 20px 0;
   font-size: 93%;
