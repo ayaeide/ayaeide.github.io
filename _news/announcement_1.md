@@ -1,8 +1,9 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+# title: Published an blog post
+date: 2023-06-22 15:59:00-0400
 inline: true
-related_posts: false
+related_posts: true
 ---
 
-A simple inline announcement.
+Published a <a href="https://note.com/privacyhci/n/nd7774837243e" target="_blank">blog post</a> 🙌
