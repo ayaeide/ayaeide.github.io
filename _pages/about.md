@@ -1,6 +1,6 @@
 ---
-layout: Portfolio
-title: Ayae Ide
+layout: about
+title: about
 permalink: /
 subtitle: PhD student <a href='https://ist.psu.edu/'>Pennsylvania State University</a>
 
