@@ -74,12 +74,12 @@
   ],
   "interests": [
     {
-      "name": "Usable Privacy and Security",
-      "keywords": ["App Tracking Transparency", "Proximity-based Contact Tracing", "Differential Privacy"]
+      "name": "Usable Security and Privacy",
+      "keywords": ["Proof of personhood (PoP)", "Data minimization", "Privacy for GenAI"]
     },
     {
       "name": "Human-Computer Interaction",
-      "keywords": ["Privacy Perceptions and Misconceptions", "Visualization Perception", "Interaction Design"]
+      "keywords": ["Design for Web3/DeFi", "A11y by Design", "Data visualization and physicalization"]
     }
   ],
   "references": [],
