@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a PhD student in informatics with a primary focus on understanding privacy perceptions and designing user-centered privacy interfaces.
+I am a PhD candidate in informatics at Pennsylvania State University's College of Information Sciences and Technology. I am fortunate to be advised by [Dr.Tanusree Sharma](https://tanusreesharma.github.io/). My current research interests are usable security and privacy for Web3/Decentralized Internet.
 
 `Privacy Communications and User Interfaces`: I explore how these factors influence user decisions related to data sharing on online platforms. I aim to provide users with better-informed choices to respect user privacy and maximize the data power of products, particularly in the context of evolving data-centric systems and privacy regulations.
 
