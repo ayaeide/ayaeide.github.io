@@ -25,4 +25,3 @@ I am a PhD candidate in informatics at Pennsylvania State University's College o
 
 `Decentralized Internet`: My interest in decentralized systems arises from a desire to explore structures that empower users and reduce platform dominance. These systems align with my broader goal of promoting user autonomy by minimizing the influence of centralized entities.
 
-`Accessibility and Inclusive Design`: A11y has always been a passion of mine. At Meta Japan, we launched the Disability@Meta Tokyo chapter to raise awareness about the challenges faced by people with disabilities and to advocate for more inclusive communities.
