@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD student <a href='https://ist.psu.edu/'>Pennsylvania State University</a>
+subtitle: PhD candidate <a href='https://ist.psu.edu/'>Pennsylvania State University</a>
 
 profile:
   align: right
@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a PhD candidate in informatics at Pennsylvania State University's College of Information Sciences and Technology. I am fortunate to be advised by [Dr.Tanusree Sharma](https://tanusreesharma.github.io/). My current research interests are usable security and privacy for Web3/Decentralized Internet.
+I am a PhD candidate in informatics at Pennsylvania State University's College of Information Sciences and Technology. My current research interests are usable security and privacy for Web3/Decentralized Internet.
 
 `Platform Transparency`: With my industry experience, I’ve observed significant challenges in the transparency of data-sharing practices. I am passionate about designing transparent interfaces that foster trust and accountability for building fair and ethical online platforms.
 

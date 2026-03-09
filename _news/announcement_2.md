@@ -1,10 +1,10 @@
 ---
 layout: post
 # title: Published an blog post
-date: 2025-07-01 15:59:00-0400
+date: 2025-06-23 15:59:00-0400
 inline: true
 related_posts: true
 ---
 
-I'm excited to start my visiting scholar position at the Max Planck Institute for Software Systems, <a href="https://blockchain.mpi-sws.org/" target="_blank">Blockchain Research Group</a> ✨🇩🇪
+Presented a <a href="https://www.canva.com/design/DAGqiwxH2EQ/xrwh0lOAWZHG5tv4TRv3GQ/view?utm_content=DAGqiwxH2EQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h58e804d4ca" target="_blank">short paper</a> in the workshop of <a href="https://chiwork-aidisclosure.github.io/" target="_blank">Navigating Generative Al Disclosure, Ownership, and Accountability in Co-Creative</a> at CHIWORK 2025 🇳🇱
 
